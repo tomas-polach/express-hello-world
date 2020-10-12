@@ -2,6 +2,9 @@
   "name": "express-hello-world",
   "private": true,
   "main": "index.js",
+  "engines": {
+    "node": "10.x"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
